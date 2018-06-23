@@ -64,19 +64,6 @@ Many people don't know how much seismic activity is happening around them all th
 
 - - -
 
-### Bonus: Above and Beyond
-
-You're so excited to be in your new position you really want to do something that will blow them away. You came up with two ideas of ways to go above and beyond:
-
-* Find another set of geospatial data that you can use to show a new correlation or insight about our existing earthquake data.
-
-* Use additional plug-ins from the [Leaflet Documentation](http://leafletjs.com/plugins.html) to further visualize our data in a unique way.
-
-  * Heatmap
-    ![Heat](Images/Heat.png)
-
-  * Data Clustering
-    ![Cluster](Images/Cluster.png)
 
 ### Assessment
 
